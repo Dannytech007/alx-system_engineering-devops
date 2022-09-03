@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l
+touch 1-who_am_i
